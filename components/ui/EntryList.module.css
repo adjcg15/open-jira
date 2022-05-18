@@ -1,0 +1,9 @@
+.dragging {
+    background-color: rgba(255, 255, 255, 0.1);
+    border: 1px dashed #ffffff;
+    border-radius: 4px;
+}
+
+.containerOverflowed::-webkit-scrollbar {
+    display: none;
+}
